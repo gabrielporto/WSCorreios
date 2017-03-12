@@ -1,0 +1,14 @@
+﻿WSCorreios Version 1.0  11/03/2017
+
+A URL para acessar o WS do correios é:
+
+https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl
+
+Para instanciar basta adicionar Service References colocando a URL do WSDL
+
+No caso ja instanciei como "CorreiosAtendeClienteService"
+
+Contato: portinhoo@hotmail.com
+
+
+Fonte: http://www.eduardorizo.com.br/2014/12/04/correios-webservice-para-consulta-de-enderecos-a-partir-de-um-cep/
